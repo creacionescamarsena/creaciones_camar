@@ -1,7 +1,7 @@
 # Proyecto Creaciones Camar
 
 ## De Qué Se Trata
-Este proyecto se centra en la creación y comercialización de productos de alta calidad con un enfoque en la sostenibilidad ambiental y la responsabilidad social. Utilizamos procesos de fabricación modernos y eficientes que combinan tecnología con materiales ecológicos.
+Este proyecto se centra en la creación y comercialización de productos de alta calidad con un enfoque en la sostenibilidad ambiental y la responsabilidad social. Utilizamos procesos de fabricación modernos y eficientes que combina tecnología con materiales ecológicos.
 
 ## Proceso de Fabricación
 Nuestro proceso de producción se caracteriza por:
